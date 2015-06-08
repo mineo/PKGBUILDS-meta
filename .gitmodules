@@ -1,0 +1,30 @@
+[submodule "dbmodel"]
+	path = dbmodel
+	url = aur@aur4.archlinux.org:/dbmodel.git
+[submodule "lala-git"]
+	path = lala-git
+	url = aur@aur4.archlinux.org:/lala-git.git
+[submodule "mplayer-autocmd-git"]
+	path = mplayer-autocmd-git
+	url = aur@aur4.archlinux.org:/mplayer-autocmd-git.git
+[submodule "pg_amqp"]
+	path = pg_amqp
+	url = aur@aur4.archlinux.org:/pg_amqp.git
+[submodule "picard-git"]
+	path = picard-git
+	url = aur@aur4.archlinux.org:/picard-git.git
+[submodule "postgresql-musicbrainz-collate"]
+	path = postgresql-musicbrainz-collate
+	url = aur@aur4.archlinux.org:/postgresql-musicbrainz-collate.git
+[submodule "postgresql-musicbrainz-unaccent"]
+	path = postgresql-musicbrainz-unaccent
+	url = aur@aur4.archlinux.org:/postgresql-musicbrainz-unaccent.git
+[submodule "python2-detox"]
+	path = python2-detox
+	url = aur@aur4.archlinux.org:/python2-detox.git
+[submodule "python2-eventlet"]
+	path = python2-eventlet
+	url = aur@aur4.archlinux.org:/python2-eventlet.git
+[submodule "python2-rstex"]
+	path = python2-rstex
+	url = aur@aur4.archlinux.org:/python2-rstex.git
