@@ -28,3 +28,6 @@
 [submodule "python2-rstex"]
 	path = python2-rstex
 	url = aur@aur4.archlinux.org:/python2-rstex.git
+[submodule "cronutils"]
+	path = cronutils
+	url = ssh+git://aur@aur4.archlinux.org/cronutils.git/
