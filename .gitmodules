@@ -31,3 +31,6 @@
 [submodule "cronutils"]
 	path = cronutils
 	url = ssh+git://aur@aur4.archlinux.org/cronutils.git/
+[submodule "engine_pkcs11"]
+	path = engine_pkcs11
+	url = ssh+git://aur@aur.archlinux.org/engine_pkcs11.git
