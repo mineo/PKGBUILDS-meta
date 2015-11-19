@@ -34,3 +34,6 @@
 [submodule "engine_pkcs11"]
 	path = engine_pkcs11
 	url = ssh+git://aur@aur.archlinux.org/engine_pkcs11.git
+[submodule "zsh-notify-git"]
+	path = zsh-notify-git
+	url = ssh+git://aur@aur.archlinux.org/zsh-notify-git.git
