@@ -37,3 +37,6 @@
 [submodule "zsh-notify-git"]
 	path = zsh-notify-git
 	url = ssh+git://aur@aur.archlinux.org/zsh-notify-git.git
+[submodule "abzer-git"]
+	path = abzer-git
+	url = ssh+git://aur@aur.archlinux.org/abzer-git.git
