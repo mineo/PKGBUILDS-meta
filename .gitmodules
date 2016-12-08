@@ -40,3 +40,6 @@
 [submodule "abzer-git"]
 	path = abzer-git
 	url = ssh+git://aur@aur.archlinux.org/abzer-git.git
+[submodule "chromaprint-git"]
+	path = chromaprint-git
+	url = ssh://aur@aur.archlinux.org/chromaprint-git.git
