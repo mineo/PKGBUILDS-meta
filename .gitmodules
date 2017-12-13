@@ -22,9 +22,6 @@
 [submodule "python2-detox"]
 	path = python2-detox
 	url = aur@aur4.archlinux.org:/python2-detox.git
-[submodule "python2-eventlet"]
-	path = python2-eventlet
-	url = aur@aur4.archlinux.org:/python2-eventlet.git
 [submodule "python2-rstex"]
 	path = python2-rstex
 	url = aur@aur4.archlinux.org:/python2-rstex.git
