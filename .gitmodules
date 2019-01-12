@@ -40,3 +40,6 @@
 [submodule "chromaprint-git"]
 	path = chromaprint-git
 	url = ssh://aur@aur.archlinux.org/chromaprint-git.git
+[submodule "rederr-git"]
+	path = rederr-git
+	url = ssh://aur@aur.archlinux.org/rederr-git.git
